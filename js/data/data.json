@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nombre": "CINTA CAMINADORA",
+        "imgSrc": "https://http2.mlstatic.com/D_NQ_NP_651707-MLA31025083471_062019-O.jpg",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…s para componer su propio Lorem Ipsum exclusivo..",
+        "precio": "50000"
+    },
+    {
+        "id": 2,
+        "nombre": "ELIPTICO RESIDENCIA",
+        "imgSrc": "https://cdnlaol.laanonimaonline.com/web/images/productos/b/0000000000/374.jpg",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "78955"
+    },
+    {
+        "id": 3,
+        "nombre": "BICICLETA FIJA",
+        "imgSrc": "https://http2.mlstatic.com/D_NQ_NP_661020-MLA43361494246_092020-O.webp",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "60000"
+    },
+    {
+        "id": 4,
+        "nombre": "RACK DE GIM ESPECIAL MULTIFUNCIONA",
+        "imgSrc": "https://s.alicdn.com/@sc04/kf/Hf39ea33510f64a55835a56393a30b9a3N.jpg_220x220.jpg",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "75000"
+    },
+    {
+        "id": 5,
+        "nombre": "MULTI GIMNACIO 380M",
+        "imgSrc": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRF_C7Jjf7TJcUO17IhwlTNDs1uPrbDGAVp-wTbcyzcZsiE-9z7fH3ist0jmDNSjuxUKFBpie1Y2q2D0K2WQgO42ODMewmvsUgU228edV5BF5VIfu15_DnMXw&usqp=CAE",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "175000"
+    },
+    {
+        "id": 6,
+        "nombre": "MULTI-GIM ADIDAS",
+        "imgSrc": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrA7wE1zIeug7EdD05V2uAWQ6Vuwtn7gawShX-96zm6VHFQ_S6oOBQjXCt_4yagPALO4uHnRdcPnxADJuiDKFDLr6djpQPGIsa7vdwnq2iSRmUdsA8tZ8X5w&usqp=CAE",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "89000"
+    },
+    {
+        "id": 7,
+        "nombre": "MULTI GIMNACIO 380M",
+        "imgSrc": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRF_C7Jjf7TJcUO17IhwlTNDs1uPrbDGAVp-wTbcyzcZsiE-9z7fH3ist0jmDNSjuxUKFBpie1Y2q2D0K2WQgO42ODMewmvsUgU228edV5BF5VIfu15_DnMXw&usqp=CAE",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "175000"
+    },
+    {
+        "id": 8,
+        "nombre": "MULTI-GIM ADIDAS",
+        "imgSrc": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTrA7wE1zIeug7EdD05V2uAWQ6Vuwtn7gawShX-96zm6VHFQ_S6oOBQjXCt_4yagPALO4uHnRdcPnxADJuiDKFDLr6djpQPGIsa7vdwnq2iSRmUdsA8tZ8X5w&usqp=CAE",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "89000"
+    },
+    {
+        "id": 9,
+        "nombre": "MULTI GIMNACIO 380M",
+        "imgSrc": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRF_C7Jjf7TJcUO17IhwlTNDs1uPrbDGAVp-wTbcyzcZsiE-9z7fH3ist0jmDNSjuxUKFBpie1Y2q2D0K2WQgO42ODMewmvsUgU228edV5BF5VIfu15_DnMXw&usqp=CAE",
+        "detalle": "De hecho, insertando cualquier texto de fantasía o…os para componer su propio Lorem Ipsum exclusivo",
+        "precio": "175000"
+    }
+]
